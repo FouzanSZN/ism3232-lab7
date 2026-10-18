@@ -1,4 +1,3 @@
-
 from business_rules import (
     apply_discount,
     calculate_total,

@@ -1,4 +1,3 @@
-
 # main.py
 
 from business_rules import (

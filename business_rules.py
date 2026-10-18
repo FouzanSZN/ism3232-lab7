@@ -1,4 +1,3 @@
-
 # business_rules.py
 # Author: Fouzan Haider
 
